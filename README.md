@@ -2,7 +2,7 @@
 
 A simple machine learning web application that predicts whether a piece of text has a positive or negative sentiment.
 
-## ⚙️ How It Works
+## How It Works
 
 The project uses TF-IDF to convert text into numerical features and Logistic Regression to classify the sentiment. A Streamlit interface allows users to enter their own text and receive a prediction with a confidence score.
 
