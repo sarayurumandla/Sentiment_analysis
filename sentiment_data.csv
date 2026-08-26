@@ -1,0 +1,17 @@
+text,sentiment
+"I love this product",positive
+"This is amazing",positive
+"I really enjoyed this",positive
+"Fantastic experience",positive
+"I hate this product",negative
+"This is terrible",negative
+"I really disliked this",negative
+"Awful experience",negative
+"I love it so much",positive
+"This is wonderful",positive
+"I am very happy with this",positive
+"Really good experience",positive
+"I hate it",negative
+"Very disappointing",negative
+"This was awful",negative
+"I am very unhappy with this",negative
