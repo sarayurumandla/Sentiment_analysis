@@ -50,9 +50,9 @@ if st.button("Analyse Sentiment"):
         # Display result
         if prediction.lower() == "positive":
             st.success(
-                f"😊 Positive — {confidence:.1f}% confidence"
+                f"Positive — {confidence:.1f}% confidence"
             )
         else:
             st.error(
-                f"😞 Negative — {confidence:.1f}% confidence"
+                f"Negative — {confidence:.1f}% confidence"
             )
