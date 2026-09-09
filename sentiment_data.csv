@@ -3,15 +3,99 @@ text,sentiment
 "This is amazing",positive
 "I really enjoyed this",positive
 "Fantastic experience",positive
-"I hate this product",negative
-"This is terrible",negative
-"I really disliked this",negative
-"Awful experience",negative
 "I love it so much",positive
 "This is wonderful",positive
 "I am very happy with this",positive
 "Really good experience",positive
-"I hate it",negative
-"Very disappointing",negative
-"This was awful",negative
+"This product is excellent",positive
+"I am extremely satisfied",positive
+"Absolutely fantastic service",positive
+"I would definitely recommend this",positive
+"This exceeded my expectations",positive
+"I am very pleased with my purchase",positive
+"The quality is excellent",positive
+"I had a great experience",positive
+"This works perfectly",positive
+"I am impressed with the results",positive
+"Really happy with how this turned out",positive
+"The service was brilliant",positive
+"This is one of my favourite products",positive
+"Everything worked exactly as expected",positive
+"I would buy this again",positive
+"The experience was fantastic",positive
+"I couldn't be happier",positive
+"This product is incredibly useful",positive
+"Very satisfied with the service",positive
+"I had an excellent experience",positive
+"This made my day",positive
+"I genuinely enjoyed using this",positive
+"The product feels high quality",positive
+"This was a great purchase",positive
+"I am impressed by the quality",positive
+"The results were fantastic",positive
+"I highly recommend this product",positive
+"This is exactly what I needed",positive
+"Everything about this was great",positive
+"I am really pleased",positive
+"The customer service was excellent",positive
+"This was better than expected",positive
+"I really like this product",positive
+"The experience was enjoyable",positive
+"This is reliable and effective",positive
+"I am happy with my decision",positive
+"The product exceeded expectations",positive
+"This was a brilliant experience",positive
+"I would happily recommend this",positive
+"The quality is really impressive",positive
+"I am satisfied with everything",positive
+"This is a fantastic product",positive
+"I hate this product",negative
+"This is terrible",negative
+"I really disliked this",negative
+"Awful experience",negative
+"I hate it so much",negative
+"This is horrible",negative
 "I am very unhappy with this",negative
+"Very disappointing",negative
+"This product is terrible",negative
+"I am extremely dissatisfied",negative
+"Absolutely awful service",negative
+"I would never recommend this",negative
+"This failed to meet my expectations",negative
+"I am very disappointed with my purchase",negative
+"The quality is terrible",negative
+"I had a terrible experience",negative
+"This does not work at all",negative
+"I am disappointed with the results",negative
+"Really unhappy with how this turned out",negative
+"The service was awful",negative
+"This is one of the worst products I have used",negative
+"Nothing worked as expected",negative
+"I would never buy this again",negative
+"The experience was horrible",negative
+"I couldn't be more disappointed",negative
+"This product is completely useless",negative
+"Very dissatisfied with the service",negative
+"I had a horrible experience",negative
+"This ruined my day",negative
+"I really disliked using this",negative
+"The product feels very cheap",negative
+"This was a terrible purchase",negative
+"I am disappointed by the quality",negative
+"The results were awful",negative
+"I strongly regret buying this product",negative
+"This was a horrible experience",negative
+"I would not recommend this to anyone",negative
+"The quality is extremely poor",negative
+"I am unhappy with everything",negative
+"This is a terrible product",negative
+"The product broke immediately",negative
+"Customer service was very poor",negative
+"This was a complete waste of money",negative
+"I regret purchasing this",negative
+"The product did not meet my needs",negative
+"This was frustrating to use",negative
+"I am not satisfied with this product",negative
+"The experience was extremely disappointing",negative
+"This product caused more problems than it solved",negative
+"I would definitely avoid this product",negative
